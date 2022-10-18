@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lenadlm
 - 👀 I’m interested in programming, computer networking and linux
-- 🌱 I’m currently learning cs50 - introduction in computer science
+- 🌱 I’m currently learning cs50 - introduction to computer science
 - 💞️ I’m looking to collaborate on - anything!
 - 📫 How to reach me @lenadlm on twitter
 
