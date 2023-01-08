@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lenadlm
-- 👀 Coding Connoisseur!
+- 👀 Web Development Connoisseur!
 - 🌱 I’m currently learning - introduction to computer science by CS50
-- 💞️ I’m looking to collaborate on - anything!
+- 💞️ I’m looking to collaborate on - not yet *(still learning)*
 - 📫 How to reach me @lenadlm on twitter
 
 <!---
