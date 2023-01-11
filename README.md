@@ -1,4 +1,4 @@
-![Twitter](https://img.shields.io/badge/twitter-lenadlm-blue) &emsp;
+
 
 - 👋 Hi, I’m Leonard
 - 👀 Web Development Connoisseur!
@@ -17,6 +17,10 @@ You can click the Preview link to take a look at your changes.
 <!---https://github.com/anuraghazra/github-readme-stats--->
 [![Leonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenadlm&include_all_commits=true&count_private=true&show_icons=true&theme=transparent)](#)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenadlm&langs_count=5&layout=compact&theme=transparent&card_width=445)](https://github.com/lenadlm/github-readme-stats)<br>
+
+<br>
+<b><i>talk to me!</i></b>
+[![Twitter](https://img.shields.io/badge/twitter-lenadlm-blue)](https://twitter.com/lenadlm)
 
 
 
