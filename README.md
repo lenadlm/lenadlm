@@ -19,8 +19,8 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenadlm&langs_count=5&layout=compact&theme=transparent&card_width=445)](https://github.com/lenadlm/github-readme-stats)<br>
 
 <br>
-<b><i>talk to me!</i></b>
-[![Twitter](https://img.shields.io/badge/twitter-lenadlm-blue)](https://twitter.com/lenadlm)
+<b><i>talk to me</i></b><br>
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/lenadlm) &emsp;
 
 
 
