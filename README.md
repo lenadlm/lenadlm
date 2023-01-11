@@ -1,10 +1,10 @@
 
 
 - 👋 Hi, I’m Leonard
-- 👀 Web Development Connoisseur!
+- 👀 Interest Web Development!
 - 🌱 I’m currently learning - introduction to computer science by CS50
 - 💞️ I’m looking to collaborate on - not yet *(still learning)*
-- 📫 How to reach me;
+- 📫 Reach out on;
 <p align='center'>
 <a href="https://twitter.com/intent/follow?screen_name=lenadlm">
     <img src="https://img.shields.io/twitter/follow/lenadlm?style=social&logo=twitter"
