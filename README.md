@@ -5,12 +5,10 @@
 - 🌱 I’m currently learning - introduction to computer science by CS50
 - 💞️ I’m looking to collaborate on - not yet *(still learning)*
 - 📫 How to reach me;
-<br>
-<p align='center'>
+
 <a href="https://twitter.com/intent/follow?screen_name=lenadlm">
     <img src="https://img.shields.io/twitter/follow/lenadlm?style=social&logo=twitter"
         alt="follow on Twitter"></a>
-    </p>
 
 <!---
 lenadlm/lenadlm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
