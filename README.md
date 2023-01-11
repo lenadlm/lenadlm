@@ -51,4 +51,5 @@ https://github.com/badges/shields
 https://hendrasob.github.io/badges/
 https://github.com/ryo-ma/github-profile-trophy
 https://github.com/anuraghazra/github-readme-stats
+https://simpleicons.org/
 --->
