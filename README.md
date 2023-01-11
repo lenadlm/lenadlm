@@ -15,7 +15,7 @@
         alt="Email Me"
             target="_blank"</a>
 <a href="https://www.linkedin.com/in/lenadlm/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white" height="20"
         alt="LinkedIn Profile"
             target="_blank"</a>
 <a href="https://dev.to/lenadlm">
@@ -30,9 +30,16 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <br><br>
-<!---https://github.com/ryo-ma/github-profile-trophy--->
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=lenadlm&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)<br>
 
-<!---https://github.com/anuraghazra/github-readme-stats--->
+
 [![Leonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenadlm&include_all_commits=true&count_private=true&show_icons=true&theme=transparent)](#)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenadlm&langs_count=5&layout=compact&theme=transparent&card_width=445)](https://github.com/lenadlm/github-readme-stats)<br> 
+    
+<!---Thanks to;
+https://github.com/badges/shields
+https://hendrasob.github.io/badges/
+https://github.com/ryo-ma/github-profile-trophy
+https://github.com/anuraghazra/github-readme-stats
+--->
