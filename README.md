@@ -1,3 +1,5 @@
+[![Leonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenadlm)](https://github.com/lenadlm/github-readme-stats)
+
 - 👋 Hi, I’m @lenadlm
 - 👀 Web Development Connoisseur!
 - 🌱 I’m currently learning - introduction to computer science by CS50
