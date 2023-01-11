@@ -6,14 +6,18 @@
 - 💞️ I’m looking to collaborate on - not yet *(still learning)*
 - 📫 How to reach me;
 <p align='center'>
-<a href="mailto:lenadlm@outlook.com@gmail.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="20"
-        alt="Email Me"
-            target="_blank"</a>
 <a href="https://twitter.com/intent/follow?screen_name=lenadlm">
     <img src="https://img.shields.io/twitter/follow/lenadlm?style=social&logo=twitter"
         alt="follow on Twitter"
             target=_blank></a>
+<a href="mailto:lenadlm@outlook.com@gmail.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="20"
+        alt="Email Me"
+            target="_blank"</a>
+<a href="https://www.linkedin.com/in/lenadlm/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"
+        alt="LinkedIn Profile"
+            target="_blank"</a>
     </p>
 
 <!---
