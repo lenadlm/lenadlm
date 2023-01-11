@@ -8,7 +8,7 @@
 <br>
 <a href="https://twitter.com/intent/follow?screen_name=lenadlm">
     <img src="https://img.shields.io/twitter/follow/lenadlm?style=social&logo=twitter"
-        alt="follow on Twitter"></a>
+        alt="follow on Twitter"></a><br>
 
 <!---
 lenadlm/lenadlm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
