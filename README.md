@@ -7,7 +7,7 @@
 - 📫 How to reach me;
 <p align='center'>
 <a href="mailto:lenadlm@outlook.com@gmail.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height=2px
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="2">
         alt="Email Me"></a>
 <a href="https://twitter.com/intent/follow?screen_name=lenadlm">
     <img src="https://img.shields.io/twitter/follow/lenadlm?style=social&logo=twitter"
