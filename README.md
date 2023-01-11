@@ -11,6 +11,11 @@ lenadlm/lenadlm is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 <br><br>
-![Leonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenadlm&show_icons=true&theme=transparent)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenadlm&langs_count=8&theme=transparent)](https://github.com/lenadlm/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lenadlm&margin-w=8&theme=transparent)](https://github.com/ryo-ma/github-profile-trophy)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenadlm&langs_count=5&layout=compact&theme=transparent)](https://github.com/lenadlm/github-readme-stats)<br>
+
+![Leonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenadlm&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lenadlm&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br><br>
+
+
+
