@@ -1,4 +1,4 @@
-| [![Twitter](https://img.shields.io/badge/twitter-lenadlm-blue)(#)
+[![Twitter](https://img.shields.io/badge/twitter-lenadlm-blue)(#)
 
 - 👋 Hi, I’m Leonard
 - 👀 Web Development Connoisseur!
