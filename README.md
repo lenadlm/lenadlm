@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Leonard
 - 👀 Interest Web Development!
-- 🌱 I’m currently learning - introduction to computer science by CS50
+- 🌱 I’m currently learning - cs50x, cs50w.
 - 💞️ I’m looking to collaborate on - not yet *(still learning)*
 - 📫 Reach out on;
 <p align='center'>
