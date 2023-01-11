@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
         height="20"
             alt="follow on Twitter"
-                target=_blank></a>
+                target="_blank"></a>
 <a href="https://www.linkedin.com/in/lenadlm/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" 
         height="20"
@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://twitter.com/intent/follow?screen_name=lenadlm">
     <img src="https://img.shields.io/twitter/follow/lenadlm?style=social&logo=twitter"
         alt="follow on Twitter"
-            target=_blank></a>
+            target="_blank"></a>
     
 <!---Thanks to;
 https://github.com/badges/shields
