@@ -10,13 +10,13 @@
     <img src="https://img.shields.io/twitter/follow/lenadlm?style=social&logo=twitter"
         alt="follow on Twitter"
             target=_blank></a>
+<a href="https://www.linkedin.com/in/lenadlm/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" height="20"
+        alt="LinkedIn Profile"
+            target="_blank"</a>
 <a href="mailto:lenadlm@outlook.com@gmail.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="20"
         alt="Email Me"
-            target="_blank"</a>
-<a href="https://www.linkedin.com/in/lenadlm/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&" height="20"
-        alt="LinkedIn Profile"
             target="_blank"</a>
 <a href="https://dev.to/lenadlm">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height="20"
