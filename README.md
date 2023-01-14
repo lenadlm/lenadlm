@@ -5,7 +5,7 @@
 - 👀 I''m Interested in Web Development & Design.
 - 🌱 I’m currently learning - cs50x, cs50w. *(HTML & CSS, Python & JavaScript)*
 - 💞️ I’m looking to collaborate on - not yet *(still learning)*
-- 📫 Say hi on twitter and linkedin or just email me at;
+- 📫 Feel free to email me or follow me on twitter and linkedin - just to say 'hi';
 <p align='center'>
 <a href="https://twitter.com/intent/follow?screen_name=lenadlm">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white"
