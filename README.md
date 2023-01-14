@@ -1,6 +1,6 @@
 
 
-- 👋 Hi there, I’m Leonard
+- 👋 Hi there, <h1>I’m Leonard</h1>
 - 👀 Interest - Web Development!
 - 🌱 I’m currently learning - cs50x, cs50w.
 - 💞️ I’m looking to collaborate on - not yet *(still learning)*
