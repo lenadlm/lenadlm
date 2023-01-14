@@ -1,6 +1,6 @@
 
 
- Hi there,<br> <h1> &emsp; &emsp; I’m Leonard 👋</h1>
+  &emsp;   Hi there,<br> <h1> &emsp; &emsp; I’m Leonard 👋</h1>
  
 - 👀 Interest - Web Development!
 - 🌱 I’m currently learning - cs50x, cs50w.
