@@ -1,8 +1,8 @@
 
 
-  &emsp;   Hi there,<br> <h1> &emsp; &emsp; I’m Leonard 👋</h1>
+   Hi there,<br> Thsnks for visiting my Github profile... <br><h1> &emsp; &emsp; I’m Leonard 👋</h1>
  
-- 👀 Interest - Web Development!
+- 👀 I''m Interested in Web Development & Design.
 - 🌱 I’m currently learning - cs50x, cs50w. *(HTML & CSS, Python & JavaScript)*
 - 💞️ I’m looking to collaborate on - not yet *(still learning)*
 - 📫 Reach out on;
