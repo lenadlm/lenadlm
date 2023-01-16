@@ -38,10 +38,16 @@ You can click the Preview link to take a look at your changes.
 [![trophy](https://github-profile-trophy.vercel.app/?username=lenadlm&theme=matrix&no-bg=true&column=-1)](https://github.com/lenadlm/)
    
 <br><br>    
-<a href="https://twitter.com/intent/follow?screen_name=lenadlm">
+<a href="https://twitter.com/intent/follow?screen_name=lenadlm" target="_blank">
     <img src="https://img.shields.io/twitter/follow/lenadlm?style=social&logo=twitter"
-        alt="follow on Twitter"
-            target="_blank"></a>
+        alt="follow on Twitter"></a> &emsp;
+
+   
+<a href="https://dev.to/lenadlm" target="_blank">
+    <img src="https://vbr.wocr.tk/badge?page_id=https://github.com/lenadlm?style=plastic" 
+         alt="visitors"></a>
+            
+   
     
 <!---Thanks to;
 https://github.com/badges/shields
