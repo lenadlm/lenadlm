@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
         alt="follow on Twitter"></a> &emsp;
 
    
-<a href="https://dev.to/lenadlm" target="_blank">
+<a href="https://github.com/lenadlm" target="_blank">
     <img src="https://vbr.wocr.tk/badge?page_id=https://github.com/lenadlm?style=plastic" 
          alt="visitors"></a>
             
