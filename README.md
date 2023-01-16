@@ -31,10 +31,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <br><br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenadlm&langs_count=5&theme=transparent)](https://github.com/lenadlm/)<br> 
-[![Leonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenadlm&include_all_commits=true&count_private=true&show_icons=true&theme=transparent&card_width=200)](#)<br>
+[![Leonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenadlm&include_all_commits=true&count_private=true&show_icons=true&theme=transparent&card_width=150)](#)<br>  
 [![trophy](https://github-profile-trophy.vercel.app/?username=lenadlm&theme=matrix&no-bg=true&column=3)](https://github.com/lenadlm/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenadlm&langs_count=5&theme=transparent)](https://github.com/lenadlm/)<br> 
+
+
 
 
    
