@@ -32,8 +32,8 @@ You can click the Preview link to take a look at your changes.
 
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenadlm&langs_count=5&theme=transparent)](https://github.com/lenadlm/)
-[![Leonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenadlm&include_all_commits=true&count_private=true&show_icons=true&theme=transparent)](#)<br> 
+[![Leonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenadlm&include_all_commits=true&count_private=true&show_icons=true&theme=transparent)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenadlm&langs_count=5&theme=transparent)](https://github.com/lenadlm/)<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=lenadlm&theme=matrix&no-bg=true&column=-1)](https://github.com/lenadlm/)<br>
 
 
