@@ -40,11 +40,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://twitter.com/intent/follow?screen_name=lenadlm" target="_blank">
     <img src="https://img.shields.io/twitter/follow/lenadlm?style=social&logo=twitter"
         alt="follow on Twitter"></a> &emsp;
-
-   
-<a href="https://github.com/lenadlm" target="_blank">
-    <img src="https://vbr.wocr.tk/badge?page_id=https://github.com/lenadlm?style=plastic" 
-         alt="visitors"></a>
+ 
+<a href="https://hits.seeyoufarm.com" target="_blank"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flenadlm%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
             
    
     
@@ -54,4 +51,5 @@ https://hendrasob.github.io/badges/
 https://github.com/ryo-ma/github-profile-trophy
 https://github.com/anuraghazra/github-readme-stats
 https://simpleicons.org/
+https://hits.seeyoufarm.com/
 --->
