@@ -6,26 +6,26 @@
 - 🌱 I’m currently learning - cs50x, cs50w. *(HTML & CSS, Python & JavaScript)*
 - 💞️ I’m looking to collaborate on - not yet *(still learning)*
 - 📫 Feel free to email me or follow me on twitter and linkedin - just to say 'hi';
-<p align='center'>
-<a href="https://twitter.com/intent/follow?screen_name=lenadlm">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white"
-        alt="follow on Twitter"
-            target="_blank"></a>
-<a href="https://www.linkedin.com/in/lenadlm/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin" 
-        alt="LinkedIn Profile"
-            target="_blank"</a>
-<a href="mailto:lenadlm@outlook.com@gmail.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white" 
-        alt="Email Me"
-            target="_blank"</a>
-<a href="https://dev.to/lenadlm">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?syle=plastic&logo=dev.to&logoColor=white" 
-        alt="dev.to"
-            target="_blank"</a>
-    </p>
 
-<!---
+<!-- Socials -->
+ <ul style="justify-content: center; align-items: center;">
+     <li><a href="https://github.com/lenadlm" target="_blank">
+         <i class="fa-brands fa-github fa-3x"></i>
+         </a></li>
+     <li><a href="https://twitter.com/intent/follow?screen_name=lenadlm" target="_blank">
+         <i class="fa-brands fa-x-twitter fa-3x"></i>
+         </a></li>
+     <li><a href="https://www.linkedin.com/in/lenadlm/" target="_blank">
+         <i class="fa-brands fa-linkedin-in fa-3x"></i>
+         </a></li>
+     <li><a href="mailto: ">
+         <i class="fa-regular fa-envelope fa-3x"></i>
+          </a></li>
+     <li><a href="https://dev.to/lenadlm" target="_blank">
+         <i class="fa-brands fa-dev fa-3x"></i>
+         </a></li>                
+ </ul>
+
 lenadlm/lenadlm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
