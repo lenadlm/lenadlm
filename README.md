@@ -11,21 +11,22 @@
 <!-- Socials -->
 
 <a href="https://twitter.com/intent/follow?screen_name=lenadlm" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/X_icon.svg"
-   alt="follow on Twitter"></a>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/X_icon.svg"
+         alt="follow on Twitter" width="24" height="24">
+</a>
 
 
-<a href="https://github.com/lenadlm" target="_blank" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
-   alt="follow on Twitter"></a>
+<a href="https://github.com/lenadlm" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
+         alt="Follow on GitHub" width="24" height="24">
 </a>
 
 <a href="https://www.linkedin.com/in/lenadlm/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
-   alt="follow on Twitter"></a>
-</a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"
+         alt="Connect on LinkedIn" width="24" height="24">
+</a> 
 
-https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg
+
 
 
          
