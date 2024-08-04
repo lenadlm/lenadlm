@@ -7,8 +7,9 @@
 - 💞️ I’m looking to collaborate on - not yet *(still learning)*
 - 📫 Feel free to email me or follow me on twitter and linkedin - just to say 'hi';
 
+<br> <br>
 <!-- Socials -->
- <ul style="justify-content: center; align-items: center;">
+ <ul>
      <li><a href="https://github.com/lenadlm" target="_blank">
          <i class="fa-brands fa-github fa-3x"></i>
          </a></li>
@@ -26,7 +27,7 @@
          </a></li>                
  </ul>
 
-lenadlm/lenadlm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--lenadlm/lenadlm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
