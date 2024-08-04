@@ -11,7 +11,7 @@
 <!-- Socials -->
 
 <a href="https://twitter.com/intent/follow?screen_name=lenadlm" target="_blank">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/X_icon.svg"
+   <img src="https://en.wikipedia.org/wiki/File:X_logo.jpg"
          alt="follow on Twitter" width="24" height="24">
 </a>
 
