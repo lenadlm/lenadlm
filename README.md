@@ -7,15 +7,15 @@
 - 💞️ I’m looking to collaborate on - not yet *(still learning)*
 - 📫 keep in touch! follow me;
 
-<br>
 <!-- Socials -->
-
-<a href="https://x.com/intent/follow?screen_name=lenadlm" target="_blank">
-  <img src="https://cdn.simpleicons.org/x/000/fff" alt="x" align=left width=24 height=24>
-</a>
+<br>
 
 <a href="https://github.com/lenadlm" target="_blank">
     <img src="https://cdn.simpleicons.org/github/000/fff" alt="github" align=left width=24 height=24>
+</a>
+
+<a href="https://x.com/intent/follow?screen_name=lenadlm" target="_blank">
+  <img src="https://cdn.simpleicons.org/x/000/fff" alt="x" align=left width=24 height=24>
 </a>
 
 <a href="https://www.linkedin.com/in/lenadlm/" target="_blank">
