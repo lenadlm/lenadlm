@@ -33,6 +33,16 @@
 
 <br><br>
 
+<ul class="badge-list">
+    <li><a href="https://github.com/lenadlm" target="_blank"><img src="https://cdn.simpleicons.org/html5/e34f26" alt="html" style="width: 24px; height: 24px; float: left;"></a></li>
+    <li><a href="https://github.com/lenadlm" target="_blank"><img src="https://cdn.simpleicons.org/css3/1572b6" alt="css" style="width: 24px; height: 24px; float: left;"></a></li>
+    <li><a href="https://github.com/lenadlm" target="_blank"><img src="https://cdn.simpleicons.org/python/3776ab" alt="python" style="width: 24px; height: 24px; float: left;"></a></li>
+    <li><a href="https://github.com/lenadlm" target="_blank"><img src="https://cdn.simpleicons.org/javascript/f7df1e" alt="javascript" style="width: 24px; height: 24px; float: left;"></a></li>
+    <li><a href="https://github.com/lenadlm" target="_blank"><img src="https://cdn.simpleicons.org/sqlite/003b57" alt="sqlite" style="width: 24px; height: 24px; float: left;"></a></li>
+    <li><a href="https://github.com/lenadlm" target="_blank"><i class="fa-brands fa-git fa-3x" style="color: #f34f29;"></i></a></li>
+    <li><a href="https://github.com/lenadlm" target="_blank"><i class="fa-brands fa-linux fa-3x" style="color: #000000;"></i></a></li>
+</ul>
+
 
 
 <!--lenadlm/lenadlm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
