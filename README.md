@@ -5,9 +5,9 @@
 - 👀 I''m Interested in Web Development & Design.
 - 🌱 I’m currently learning - cs50x, cs50w. *(HTML & CSS, Python & JavaScript)*
 - 💞️ I’m looking to collaborate on - not yet *(still learning)*
-- 📫 Feel free to email me or follow me on twitter and linkedin - just to say 'hi';
+- 📫 keep in touch! follow me;
 
-<br> <br>
+<br>
 <!-- Socials -->
 
 <a href="https://x.com/intent/follow?screen_name=lenadlm" target="_blank">
@@ -30,6 +30,8 @@
      <img src="https://cdn.simpleicons.org/devdotto/000/fff" alt="dev" align=left width=24 height=24>
 </a> 
 
+<br><br>
+
 
 
 <!--lenadlm/lenadlm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,6 +39,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <br><br>
+
 [![Leonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenadlm&include_all_commits=true&count_private=true&show_icons=true&theme=transparent&card_width=550)](#)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenadlm&layout=compact&theme=transparent&card_width=500)](https://github.com/lenadlm)<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=lenadlm&theme=matrix&no-bg=true&column=5)](https://github.com/lenadlm/)<br>
