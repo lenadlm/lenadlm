@@ -22,20 +22,15 @@
      <img src="https://cdn.simpleicons.org/linkedin/000/fff" alt="linkedin" align=left width=24 height=24>
 </a> 
 
+<a href="mailto:" target="_blank">
+     <img src="https://cdn.simpleicons.org/gmail/000/fff" alt="gmail" align=left width=24 height=24>
+</a> 
+
+<a href="https://dev.to/lenadlm" target="_blank">
+     <img src="https://cdn.simpleicons.org/devdotto/000/fff" alt="dev" align=left width=24 height=24>
+</a> 
 
 
-
-         
-     <li><a href="https://www.linkedin.com/in/lenadlm/" target="_blank">
-         <i class="fa-brands fa-linkedin-in fa-3x"></i>
-         </a></li>
-     <li><a href="mailto: ">
-         <i class="fa-regular fa-envelope fa-3x"></i>
-          </a></li>
-     <li><a href="https://dev.to/lenadlm" target="_blank">
-         <i class="fa-brands fa-dev fa-3x"></i>
-         </a></li>                
- </ul>
 
 <!--lenadlm/lenadlm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
