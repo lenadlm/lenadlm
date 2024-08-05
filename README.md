@@ -10,20 +10,16 @@
 <br> <br>
 <!-- Socials -->
 
-<a href="https://twitter.com/intent/follow?screen_name=lenadlm" target="_blank">
-   <img src="https://en.wikipedia.org/wiki/File:X_logo.jpg"
-         alt="follow on Twitter" width="24" height="24">
+<a href="https://x.com/intent/follow?screen_name=lenadlm" target="_blank">
+  <img src="https://cdn.simpleicons.org/x/000/fff" alt="x" align=left width=24 height=24>
 </a>
 
-
 <a href="https://github.com/lenadlm" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
-         alt="Follow on GitHub" width="24" height="24">
+    <img src="https://cdn.simpleicons.org/github/000/fff" alt="github" align=left width=24 height=24>
 </a>
 
 <a href="https://www.linkedin.com/in/lenadlm/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"
-         alt="Connect on LinkedIn" width="24" height="24">
+     <img src="https://cdn.simpleicons.org/linkedin/000/fff" alt="linkedin" align=left width=24 height=24>
 </a> 
 
 
