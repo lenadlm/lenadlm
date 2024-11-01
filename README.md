@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 ### Skills
-<img alt="HTML5" src="https://img.shields.io/badge/html5-E34F26?&logo=html5&logoColor=white&style=for-the-badge"> <img alt="CSS3" src="https://img.shields.io/badge/css3-1572B6?&logo=css3&logoColor=white&style=for-the-badge"> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E?&logo=javascript&logoColor=black&style=for-the-badge"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge">
+<img alt="HTML5" src="https://img.shields.io/badge/html5-E34F26?&logo=html5&logoColor=white&style=for-the-badge"><img alt="CSS3" src="https://img.shields.io/badge/css3-1572B6?&logo=css3&logoColor=white&style=for-the-badge"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E?&logo=javascript&logoColor=black&style=for-the-badge"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge">
 
 <br><br>
 ### Socials
