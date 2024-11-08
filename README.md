@@ -1,7 +1,7 @@
 
 
-   Hi there,
-   <br><h1> &emsp; &emsp; I’m Leonard 👋</h1>
+<br><h1> &emsp; &emsp; Hello 👋</h1>
+Welcome to my Github page!
 
 <!--lenadlm/lenadlm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
