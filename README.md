@@ -55,3 +55,4 @@ https://github.com/anuraghazra/github-readme-stats
 https://simpleicons.org/
 https://hits.seeyoufarm.com/
 --->
+<footer> www.lenadlm.dev </footer>
