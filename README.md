@@ -42,10 +42,9 @@ You can click the Preview link to take a look at your changes.
 ### Total Views Badge
 [![Image of https://github.com/lenadlm/veiw-counter](https://github.com/lenadlm/veiw-counter/blob/master/svg/profile/badge.svg)](https://github.com/lenadlm/veiw-counter)
 
-<br><br>
-
+<!---
 <a href="https://twitter.com/intent/follow?screen_name=lenadlm" target="_blank"><img src="https://img.shields.io/twitter/follow/lenadlm?style=social&logo=twitter"></a>
-            
+--->         
  
 <!---Thanks to;
 https://github.com/badges/shields
@@ -55,4 +54,5 @@ https://github.com/anuraghazra/github-readme-stats
 https://simpleicons.org/
 https://hits.seeyoufarm.com/
 --->
+
 <footer> www.lenadlm.dev </footer>
