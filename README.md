@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
     <a href="https://x.com/intent/follow?screen_name=lenadlm" target="_blank">
       <img src="https://cdn.simpleicons.org/x/000/fff" alt="x" align=center width=24 height=24></a>
     <a href="https://www.linkedin.com/in/lenadlm/" target="_blank">
-         <img src="https://cdn.simpleicons.org/linkedin/000/fff" alt="linkedin" align=center width=24 height=24></a> 
+         <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" align=center width=24 height=24></a> 
     <a href="mailto:" target="_blank">
          <img src="https://cdn.simpleicons.org/gmail/000/fff" alt="gmail" align=center width=24 height=24></a> 
     <a href="https://dev.to/lenadlm" target="_blank">
