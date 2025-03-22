@@ -7,7 +7,7 @@ Welcome to my Github page!
 You can click the Preview link to take a look at your changes.
 --->
 
-<h align="center">Stats</h>
+<h2 align="center">Stats</h2>
 <p align="center">
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=lenadlm&include_all_commits=true&count_private=true&show_icons=true&bg_color=00000000&hide_border=true&theme=blue_navy"/>
     <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=lenadlm&theme=tokyonight&hide_border=true"/>
