@@ -55,5 +55,6 @@ https://github.com/anuraghazra/github-readme-stats
 https://simpleicons.org/
 https://hits.seeyoufarm.com/
 --->
-    
-   <footer align="center"> www.lenadlm.dev </footer>
+
+<footer align="center"> www.lenadlm.dev </footer>
+   
