@@ -41,6 +41,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
     <img src="https://github.com/lenadlm/veiw-counter/blob/master/svg/profile/badge.svg"/>
+</p>
     
     <!---
     <a href="https://twitter.com/intent/follow?screen_name=lenadlm" target="_blank"><img src="https://img.shields.io/twitter/follow/lenadlm?style=social&logo=twitter"></a>
@@ -55,5 +56,4 @@ You can click the Preview link to take a look at your changes.
     https://hits.seeyoufarm.com/
     --->
     
-   <footer> www.lenadlm.dev </footer>
-</p>
+   <footer align="center"> www.lenadlm.dev </footer>
