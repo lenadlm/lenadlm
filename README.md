@@ -43,17 +43,17 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github.com/lenadlm/veiw-counter/blob/master/svg/profile/badge.svg"/>
 </p>
     
-    <!---
-    <a href="https://twitter.com/intent/follow?screen_name=lenadlm" target="_blank"><img src="https://img.shields.io/twitter/follow/lenadlm?style=social&logo=twitter"></a>
-    --->         
-     
-    <!---Thanks to;
-    https://github.com/badges/shields
-    https://hendrasob.github.io/badges/
-    https://github.com/ryo-ma/github-profile-trophy
-    https://github.com/anuraghazra/github-readme-stats
-    https://simpleicons.org/
-    https://hits.seeyoufarm.com/
-    --->
+<!---
+<a href="https://twitter.com/intent/follow?screen_name=lenadlm" target="_blank"><img src="https://img.shields.io/twitter/follow/lenadlm?style=social&logo=twitter"></a>
+--->         
+ 
+<!---Thanks to;
+https://github.com/badges/shields
+https://hendrasob.github.io/badges/
+https://github.com/ryo-ma/github-profile-trophy
+https://github.com/anuraghazra/github-readme-stats
+https://simpleicons.org/
+https://hits.seeyoufarm.com/
+--->
     
    <footer align="center"> www.lenadlm.dev </footer>
