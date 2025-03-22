@@ -7,10 +7,13 @@ Welcome to my Github page!
 You can click the Preview link to take a look at your changes.
 --->
 
-### Github Stats
-[![Leonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenadlm&include_all_commits=true&count_private=true&show_icons=true&bg_color=00000000&hide_border=true&theme=blue_navy&card_width=550)](#)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenadlm&layout=compact&bg_color=00000000&hide_border=true&theme=blue_navy&card_width=500)](https://github.com/lenadlm)<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=lenadlm&theme=matrix&no-bg=true&column=5)](https://github.com/lenadlm/)<br>
+### Stats
+<p align="center">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=lenadlm&include_all_commits=true&count_private=true&show_icons=true&bg_color=00000000&hide_border=true&theme=blue_navy"/>
+    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=lenadlm&theme=tokyonight&hide_border=true"/>
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenadlm&layout=compact&bg_color=00000000&hide_border=true&theme=blue_navy"/><br>
+    <img width="45%" src="https://github-profile-trophy.vercel.app/?username=lenadlm&theme=matrix&no-bg=true&column=5"/>
+</p>
 
 <br>
 
