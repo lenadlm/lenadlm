@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 <br><br><br>
 
 
-<p align="center">
+<p>
     <img src="https://github.com/lenadlm/veiw-counter/blob/master/svg/profile/badge.svg"/>
 </p>
     
