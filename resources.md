@@ -29,10 +29,10 @@
       <td><a href="https://huggingface.co" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
     <tr>
-      <td>GitHub</td>
-      <td>Open Source Hosting</td>
-      <td>Code hosting, collaboration, and CI/CD</td>
-      <td><a href="https://github.com" target="_blank" rel="noopener noreferrer">Visit</a></td>
+      <td>IT-Tools</td>
+      <td>IT Tools</td>
+      <td>Handy online tools for developers</td>
+      <td><a href="https://it-tools.tech/" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
     <tr>
       <td>Figma Community</td>
