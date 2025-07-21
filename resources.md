@@ -35,10 +35,10 @@
       <td><a href="https://it-tools.tech/" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
     <tr>
-      <td>Figma Community</td>
-      <td>Design / UI</td>
-      <td>Open-source design systems and templates</td>
-      <td><a href="https://figma.com/community" target="_blank" rel="noopener noreferrer">Visit</a></td>
+      <td>Simple Icons</td>
+      <td>Online Tools</td>
+      <td>Free SVG icons for popular brands.</td>
+      <td><a href="https://simpleicons.org/" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
     <tr>
       <td>Replicate</td>
