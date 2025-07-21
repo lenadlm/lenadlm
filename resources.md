@@ -30,7 +30,7 @@
     </tr>
     <tr>
       <td>IT-Tools</td>
-      <td>IT Tools</td>
+      <td>Online Tools</td>
       <td>Handy online tools for developers</td>
       <td><a href="https://it-tools.tech/" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
