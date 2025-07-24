@@ -60,7 +60,7 @@
     </tr>
     <tr>
       <td>The Thiings Collection</td>
-      <td>Presentation tools</td>
+      <td>Presentation Tools</td>
       <td>A growing collection of 6000+ free 3D icons</td>
       <td><a href="https://www.thiings.co/things" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
