@@ -41,10 +41,10 @@
       <td><a href="https://simpleicons.org/" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
     <tr>
-      <td>Replicate</td>
-      <td>AI / ML</td>
-      <td>Run machine learning models in the cloud</td>
-      <td><a href="https://replicate.com" target="_blank" rel="noopener noreferrer">Visit</a></td>
+      <td>Remix Icons</td>
+      <td>Online Tools</td>
+      <td>Simply Delightful Icon System</td>
+      <td><a href="https://remixicon.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
     <tr>
       <td>OpenAI</td>
