@@ -60,6 +60,24 @@
     </tr>
     <tr>
       <td>Papers with Code</td>
+      <td>Presentation tools</td>
+      <td>A growing collection of 6000+ free 3D icons</td>
+      <td><a href="https://www.thiings.co/things" target="_blank" rel="noopener noreferrer">Visit</a></td>
+    </tr>
+    <tr>
+      <td>Open Source Alternative</td>
+      <td>Tools Directory</td>
+      <td>Alternatives to proprietary software</td>
+      <td><a href="https://opensourcealternative.to" target="_blank" rel="noopener noreferrer">Visit</a></td>
+    </tr>
+        <tr>
+      <td>SourceForge</td>
+      <td>Open Source Archive</td>
+      <td>Directory of open-source software</td>
+      <td><a href="https://sourceforge.net" target="_blank" rel="noopener noreferrer">Visit</a></td>
+    </tr>
+    <tr>
+      <td>Papers with Code</td>
       <td>AI Research</td>
       <td>ML papers, code, datasets — ranked and compared</td>
       <td><a href="https://paperswithcode.com" target="_blank" rel="noopener noreferrer">Visit</a></td>
