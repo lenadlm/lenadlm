@@ -23,10 +23,10 @@
       <td><a href="https://tinywow.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
     <tr>
-      <td>Hugging Face</td>
-      <td>AI / ML</td>
-      <td>Transformers, datasets, models & hosting platform</td>
-      <td><a href="https://huggingface.co" target="_blank" rel="noopener noreferrer">Visit</a></td>
+      <td>iLovePDF</td>
+      <td>Online Tools</td>
+      <td>iLovePDF | Online PDF tools for PDF lovers</td>
+      <td><a href="https://www.ilovepdf.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
     <tr>
       <td>IT-Tools</td>
