@@ -89,8 +89,8 @@
       <td><a href="https://opensourcealternative.to" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
     <tr>
-      <td>Digital Library / Archive</td>
       <td>Internet Archive</td>
+      <td>Digital Library / Archive</td>
       <td>Digital Library of Free & Borrowable Texts, Movies ...</td>
       <td><a href="https://archive.org/" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
