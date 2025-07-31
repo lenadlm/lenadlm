@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 <br><br><br>
 
 
-<p>
+
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=lenadlm)
     
 <!---
@@ -55,5 +55,4 @@ https://hits.seeyoufarm.com/
 --->
 
 <footer align="left"> www.lenadlm.dev </footer>
-</p>
    
