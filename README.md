@@ -37,10 +37,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 <br><br><br>
 
-
-<p>
-    <img src="https://github.com/lenadlm/veiw-counter/blob/master/svg/profile/badge.svg"/>
-</p>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=lenadlm)
     
 <!---
 <a href="https://twitter.com/intent/follow?screen_name=lenadlm" target="_blank"><img src="https://img.shields.io/twitter/follow/lenadlm?style=social&logo=twitter"></a>
@@ -55,5 +52,5 @@ https://simpleicons.org/
 https://hits.seeyoufarm.com/
 --->
 
-<footer align="center"> www.lenadlm.dev </footer>
+<footer align="left"> www.lenadlm.dev </footer>
    
