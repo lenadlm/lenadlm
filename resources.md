@@ -29,6 +29,12 @@
       <td><a href="https://www.ilovepdf.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
     <tr>
+      <td>i2PDF</td>
+      <td>Online Tools</td>
+      <td>i2PDF: Free Online PDF Tools</td>
+      <td><a href="https://www.i2pdf.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
+    </tr>
+    <tr>
       <td>IT-Tools</td>
       <td>Online Tools</td>
       <td>Handy online tools for developers</td>
