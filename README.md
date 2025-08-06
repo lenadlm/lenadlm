@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
     <a href="https://www.linkedin.com/in/lenadlm/" target="_blank">
          <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/LinkedIn_logo_In-Black.svg" alt="linkedin" align=center width=24 height=24></a> 
     <a href="mailto:" target="_blank">
-         <img src="https://cdn.simpleicons.org/gmail/000/fff" alt="gmail" align=center width=24 height=24></a> 
+         <img src="https://www.svgrepo.com/show/117938/outlook-logo.svg" alt="email" align=center width=24 height=24></a> 
     <a href="https://dev.to/lenadlm" target="_blank">
          <img src="https://cdn.simpleicons.org/devdotto/000/fff" alt="dev" align=center width=24 height=24></a> 
 </p>
