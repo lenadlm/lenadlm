@@ -31,9 +31,9 @@ You can click the Preview link to take a look at your changes.
     <a href="https://www.linkedin.com/in/lenadlm/" target="_blank">
       <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="linkedin" align=center width=24 height=24></a>
     <a href="mailto:" target="_blank">
-         <img src="https://www.svgrepo.com/show/117938/outlook-logo.svg" alt="email" align=center width=24 height=24></a> 
+         <img src="https://www.svgrepo.com/show/452067/ms-outlook.svg" alt="email" align=center width=24 height=24></a> 
     <a href="https://dev.to/lenadlm" target="_blank">
-         <img src="https://cdn.simpleicons.org/devdotto/000/fff" alt="dev" align=center width=24 height=24></a> 
+         <img src="https://www.svgrepo.com/show/333521/dev-to.svg" alt="dev" align=center width=24 height=24></a> 
 </p>
 <br><br><br>
 
