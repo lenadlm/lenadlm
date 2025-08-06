@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">Socials</h2>
 <p align="center">
     <a href="https://github.com/lenadlm" target="_blank">
-        <img src="https://cdn.simpleicons.org/github/000/fff" alt="github" align=center width=24 height=24></a> 
+        <img src="https://www.svgrepo.com/show/450156/github.svg" alt="github" align=center width=24 height=24></a> 
     <a href="https://x.com/intent/follow?screen_name=lenadlm" target="_blank">
       <img src="https://cdn.simpleicons.org/x/000/fff" alt="x" align=center width=24 height=24></a>
     <a href="https://www.linkedin.com/in/lenadlm/" target="_blank">
