@@ -100,5 +100,11 @@
       <td>Digital Library of Free & Borrowable Texts, Movies ...</td>
       <td><a href="https://archive.org/" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
+    <tr>
+      <td>Car Care Kiosk</td>
+      <td>Auto Care</td>
+      <td>The easiest way to fix your car with videos from car repair experts</td>
+      <td><a href="https://www.carcarekiosk.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
+    </tr>
   </tbody>
 </table>
