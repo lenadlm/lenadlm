@@ -1,5 +1,5 @@
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0-beta3/css/all.min.css">
+
 <br><h1> &emsp; &emsp; Hello 👋</h1>
 Welcome to my Github page!
 
@@ -34,15 +34,6 @@ You can click the Preview link to take a look at your changes.
          <img src="https://www.svgrepo.com/show/452067/ms-outlook.svg" alt="email" align=center width=24 height=24></a> 
     <a href="https://dev.to/lenadlm" target="_blank">
          <img src="https://www.svgrepo.com/show/333521/dev-to.svg" alt="dev" align=center width=24 height=24></a> 
-</p>
-<p>
-    <ul>
-        <li><a href="https://github.com/lenadlm" target="_blank"><i class="fa-brands fa-github fa-3x"></i></a></li>
-        <li><a href="https://twitter.com/intent/follow?screen_name=lenadlm" target="_blank"><i class="fa-brands fa-x-twitter fa-3x"></i></a></li>
-        <li><a href="https://www.linkedin.com/in/lenadlm/" target="_blank"><i class="fa-brands fa-linkedin-in fa-3x"></i></a></li>
-        <li><a href="mailto:"><i class="fa-regular fa-envelope fa-3x"></i></a></li>
-        <li><a href="https://dev.to/lenadlm" target="_blank"><i class="fa-brands fa-dev fa-3x"></i></a></li>                
-    </ul>
 </p>
 
                 
