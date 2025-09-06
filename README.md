@@ -35,6 +35,17 @@ You can click the Preview link to take a look at your changes.
     <a href="https://dev.to/lenadlm" target="_blank">
          <img src="https://www.svgrepo.com/show/333521/dev-to.svg" alt="dev" align=center width=24 height=24></a> 
 </p>
+<p>
+    <ul>
+        <li><a href="https://github.com/lenadlm" target="_blank"><i class="fa-brands fa-github fa-3x"></i></a></li>
+        <li><a href="https://twitter.com/intent/follow?screen_name=lenadlm" target="_blank"><i class="fa-brands fa-x-twitter fa-3x"></i></a></li>
+        <li><a href="https://www.linkedin.com/in/lenadlm/" target="_blank"><i class="fa-brands fa-linkedin-in fa-3x"></i></a></li>
+        <li><a href="mailto:"><i class="fa-regular fa-envelope fa-3x"></i></a></li>
+        <li><a href="https://dev.to/lenadlm" target="_blank"><i class="fa-brands fa-dev fa-3x"></i></a></li>                
+    </ul>
+</p>
+
+                
 <br><br><br>
 
 
