@@ -76,7 +76,13 @@
       <td>Alternatives to proprietary software</td>
       <td><a href="https://opensourcealternative.to" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
-        <tr>
+    <tr>
+      <td>Filemail</td>
+      <td>Tools Directory</td>
+      <td>Send Large Files Of Any Size</td>
+      <td><a href="https://www.filemail.com" target="_blank" rel="noopener noreferrer">Visit</a></td>
+    </tr>
+    <tr>
       <td>SourceForge</td>
       <td>Open Source Archive</td>
       <td>Directory of open-source software</td>
