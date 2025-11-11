@@ -41,16 +41,22 @@
       <td><a href="https://it-tools.tech/" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
     <tr>
-      <td>Simple Icons</td>
+      <td>Pastebin.com/td>
       <td>Online Tools</td>
-      <td>Free SVG icons for popular brands.</td>
-      <td><a href="https://simpleicons.org/" target="_blank" rel="noopener noreferrer">Visit</a></td>
+      <td>Pastebin.com - #1 paste tool since 2002!</td>
+      <td><a href="https://pastebin.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
     <tr>
       <td>Remix Icons</td>
       <td>Online Tools</td>
       <td>Simply Delightful Icon System</td>
       <td><a href="https://remixicon.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
+    </tr>
+    <tr>
+      <td>Simple Icons</td>
+      <td>Online Tools</td>
+      <td>Free SVG icons for popular brands.</td>
+      <td><a href="https://simpleicons.org/" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
     <tr>
       <td>Filemail</td>
