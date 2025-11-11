@@ -41,7 +41,7 @@
       <td><a href="https://it-tools.tech/" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
     <tr>
-      <td>Pastebin.com/td>
+      <td>Pastebin.com</td>
       <td>Online Tools</td>
       <td>Pastebin.com - #1 paste tool since 2002!</td>
       <td><a href="https://pastebin.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
