@@ -24,10 +24,7 @@ You can click the Preview link to take a look at your changes.
     
 <h2 align="center">Socials</h2>
 <p align="center">
-[<img src="https://raw.githubusercontent.com/lenadlm/lenadlm/main/assets/twitter-x.svg" width="24" height="24" alt="X / Twitter">](https://twitter.com/lenadlm)
-[<img src="https://raw.githubusercontent.com/lenadlm/lenadlm/main/assets/linkedin.svg" width="24" height="24" alt="LinkedIn">](https://linkedin.com/in/lenadlm)
-[<img src="https://raw.githubusercontent.com/lenadlm/lenadlm/main/assets/github.svg" width="24" height="24" alt="GitHub">](https://github.com/lenadlm)
-[<img src="https://raw.githubusercontent.com/lenadlm/lenadlm/main/assets/envelope-at.svg" width="24" height="24" alt="Gmail">](mailto:lenadlm@lenadlm.dev)
+
 </p>
 
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" width="60" height="60">
