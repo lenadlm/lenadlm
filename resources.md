@@ -23,6 +23,12 @@
       <td><a href="https://tinywow.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
     <tr>
+      <td>BentoPDF</td>
+      <td>Online Tools</td>
+      <td>BentoPDF - The Privacy First PDF Toolkit</td>
+      <td><a href="https://bentopdf.com/en/#tools-header" target="_blank" rel="noopener noreferrer">Visit</a></td>
+    </tr>
+    <tr>
       <td>iLovePDF</td>
       <td>Online Tools</td>
       <td>iLovePDF | Online PDF tools for PDF lovers</td>
