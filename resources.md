@@ -77,6 +77,12 @@
       <td><a href="https://openai.com" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
     <tr>
+      <td>Postman Web</td>
+      <td>API</td>
+      <td>Postman: The World's Leading API Platform</td>
+      <td><a href="https://web.postman.co/home#" target="_blank" rel="noopener noreferrer">Visit</a></td>
+    </tr>
+    <tr>
       <td>SourceForge</td>
       <td>Open Source Archive</td>
       <td>Directory of open-source software</td>
