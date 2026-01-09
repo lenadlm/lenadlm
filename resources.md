@@ -71,7 +71,7 @@
       <td><a href="https://www.filemail.com" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
     <tr>
-      <td>Simple Icons</td>
+      <td>WebWormhole</td>
       <td>File Transfer</td>
       <td>WebWormhole lets you send files from one computer to another</td>
       <td><a href="https://webwormhole.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
