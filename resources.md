@@ -95,12 +95,6 @@
       <td><a href="https://web.postman.co/home#" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
     <tr>
-      <td>SourceForge</td>
-      <td>Open Source Archive</td>
-      <td>Directory of open-source software</td>
-      <td><a href="https://sourceforge.net" target="_blank" rel="noopener noreferrer">Visit</a></td>
-    </tr>
-    <tr>
       <td>The Thiings Collection</td>
       <td>Presentation Tools</td>
       <td>A growing collection of 6000+ free 3D icons</td>
@@ -108,13 +102,13 @@
     </tr>
     <tr>
       <td>Open Source Alternative</td>
-      <td>Tools Directory</td>
+      <td>Software</td>
       <td>Alternatives to proprietary software</td>
       <td><a href="https://opensourcealternative.to" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
     <tr>
       <td>SourceForge</td>
-      <td>Open Source Archive</td>
+      <td>Software</td>
       <td>Directory of open-source software</td>
       <td><a href="https://sourceforge.net" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
@@ -125,14 +119,8 @@
       <td><a href="https://paperswithcode.com" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
     <tr>
-      <td>Open Source Alternative</td>
-      <td>Tools Directory</td>
-      <td>Alternatives to proprietary software</td>
-      <td><a href="https://opensourcealternative.to" target="_blank" rel="noopener noreferrer">Visit</a></td>
-    </tr>
-    <tr>
       <td>Internet Archive</td>
-      <td>Digital Library / Archive</td>
+      <td>Library / Archive</td>
       <td>Digital Library of Free & Borrowable Texts, Movies ...</td>
       <td><a href="https://archive.org/" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
