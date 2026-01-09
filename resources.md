@@ -47,12 +47,6 @@
       <td><a href="https://it-tools.tech/" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
     <tr>
-      <td>Pastebin.com</td>
-      <td>Online Tools</td>
-      <td>Pastebin.com - #1 paste tool since 2002!</td>
-      <td><a href="https://pastebin.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
-    </tr>
-    <tr>
       <td>Remix Icons</td>
       <td>Online Tools</td>
       <td>Simply Delightful Icon System</td>
@@ -65,10 +59,22 @@
       <td><a href="https://simpleicons.org/" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
     <tr>
-      <td>Filemail</td>
+      <td>Pastebin.com</td>
       <td>Online Tools</td>
+      <td>Pastebin.com - #1 paste tool since 2002!</td>
+      <td><a href="https://pastebin.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
+    </tr>
+    <tr>
+      <td>Filemail</td>
+      <td>File Transfer</td>
       <td>Send Large Files Of Any Size</td>
       <td><a href="https://www.filemail.com" target="_blank" rel="noopener noreferrer">Visit</a></td>
+    </tr>
+    <tr>
+      <td>Simple Icons</td>
+      <td>File Transfer</td>
+      <td>WebWormhole lets you send files from one computer to another</td>
+      <td><a href="https://webwormhole.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
     <tr>
       <td>YetiForce</td>
