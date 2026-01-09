@@ -71,6 +71,12 @@
       <td><a href="https://www.filemail.com" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
     <tr>
+      <td>YetiForce</td>
+      <td>CRM</td>
+      <td>The most innovative CRM system.</td>
+      <td><a href="https://yetiforce.com/en/" target="_blank" rel="noopener noreferrer">Visit</a></td>
+    </tr>
+    <tr>
       <td>OpenAI</td>
       <td>AI / ML</td>
       <td>Generative AI models and APIs (GPT, DALL·E, Whisper)</td>
