@@ -77,6 +77,12 @@
       <td><a href="https://webwormhole.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
     <tr>
+      <td>JustBeamIt</td>
+      <td>File Transfer</td>
+      <td>file transfer made easy</td>
+      <td><a href="https://www.justbeamit.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
+    </tr>
+    <tr>
       <td>YetiForce</td>
       <td>CRM</td>
       <td>The most innovative CRM system.</td>
