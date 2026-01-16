@@ -1,5 +1,4 @@
 <h1>📚 Useful Resources: Open Source, AI, and Creative Tools</h1>
-
 <table>
   <thead>
     <tr>
@@ -117,6 +116,12 @@
       <td>Software</td>
       <td>Directory of open-source software</td>
       <td><a href="https://sourceforge.net" target="_blank" rel="noopener noreferrer">Visit</a></td>
+    </tr>
+    <tr>
+      <td>CheckIP.info</td>
+      <td>IP address and domain information tools</td>
+      <td>Check IP</td>
+      <td><a href="https://checkip.info/" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
     <tr>
       <td>Papers with Code</td>
