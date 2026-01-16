@@ -119,8 +119,8 @@
     </tr>
     <tr>
       <td>CheckIP.info</td>
+      <td>Network</td>
       <td>IP address and domain information tools</td>
-      <td>Check IP</td>
       <td><a href="https://checkip.info/" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
     <tr>
