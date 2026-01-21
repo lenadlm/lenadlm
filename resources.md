@@ -40,6 +40,12 @@
       <td><a href="https://www.i2pdf.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
     <tr>
+      <td>OmniTools</td>
+      <td>Online Tools</td>
+      <td>Get Things Done Quickly with OmniTools</td>
+      <td><a href="https://omnitools.app/" target="_blank" rel="noopener noreferrer">Visit</a></td>
+    </tr>
+    <tr>
       <td>IT-Tools</td>
       <td>Online Tools</td>
       <td>Handy online tools for developers</td>
