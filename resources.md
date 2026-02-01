@@ -153,5 +153,11 @@
       <td>The easiest way to fix your car with videos from car repair experts</td>
       <td><a href="https://www.carcarekiosk.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
+    <tr>
+      <td>Exif Info.org</td>
+      <td>OSINT Tools</td>
+      <td>An online tool to analyze and display the meta­data in images and other media files.</td>
+      <td><a href="https://exifinfo.org/" target="_blank" rel="noopener noreferrer">Visit</a></td>
+    </tr>
   </tbody>
 </table>
