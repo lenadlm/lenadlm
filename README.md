@@ -9,9 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center">Stats</h2>
 <p align="center">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=lenadlm&include_all_commits=true&count_private=true&show_icons=true&bg_color=00000000&hide_border=true&theme=transparent"/>
-    <img width="45%" src="https://git-hub-streak-stats.vercel.app?user=lenadlm&layout=compact&bg_color=00000000&hide_border=true&theme=transparent"/>
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenadlm&layout=compact&bg_color=00000000&hide_border=true&theme=transparent"/><br>
+    ![lenadlm's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenadlm&show_icons=true&theme=dark)
 </p>
 
 <br>
