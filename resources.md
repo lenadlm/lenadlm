@@ -136,6 +136,12 @@
       <td><a href="https://checkip.info/" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
     <tr>
+      <td>IP Chicken</td>
+      <td>Network</td>
+      <td>IP Chicken. Served fresh daily</td>
+      <td><a href="https://www.ipchicken.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
+    </tr>
+    <tr>
       <td>Papers with Code</td>
       <td>AI Research</td>
       <td>ML papers, code, datasets — ranked and compared</td>
