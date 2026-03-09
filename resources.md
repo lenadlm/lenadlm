@@ -3,7 +3,7 @@
 A curated collection of useful tools, open-source platforms, developer utilities,
 AI resources, and creative services.
 </p>
-<p> <img src="https://awesome.re/badge.svg" alt="Awesome Badge"> <img src="https://img.shields.io/badge/Maintained-Yes-brightgreen"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"> <img src="https://img.shields.io/badge/License-MIT-blue.svg"> </p
+<p> <img src="https://awesome.re/badge.svg" alt="Awesome Badge"> <img src="https://img.shields.io/badge/Maintained-Yes-brightgreen"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"> <img src="https://img.shields.io/badge/License-MIT-blue.svg"> </p>
 
 <table>
   <thead>
