@@ -1,175 +1,49 @@
-<h1>📚 Useful Resources: Open Source, AI, and Creative Tools</h1>
+<h1 align="center">📚 My Awesome Resources</h1>
+<p align="center">
+  A curated collection of useful tools, open-source platforms, developer utilities,
+  AI resources, and creative services.
+</p>
+<p align="center">
+  <img src="https://awesome.re/badge.svg" alt="Awesome Badge">
+  <img src="https://img.shields.io/badge/Maintained-Yes-brightgreen">
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen">
+</p>
 <table>
-  <thead>
-    <tr>
-      <th>Name/Tool</th>
-      <th>Category</th>
-      <th>Description</th>
-      <th>Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Anime.js</td>
-      <td>Animation Library</td>
-      <td>Lightweight JavaScript animation engine</td>
-      <td><a href="https://animejs.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
-    </tr>
-    <tr>
-      <td>TinyWow</td>
-      <td>Online Tools</td>
-      <td>Free tools for PDF, video, images, and more</td>
-      <td><a href="https://tinywow.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
-    </tr>
-    <tr>
-      <td>BentoPDF</td>
-      <td>Online Tools</td>
-      <td>BentoPDF - The Privacy First PDF Toolkit</td>
-      <td><a href="https://bentopdf.com/en/#tools-header" target="_blank" rel="noopener noreferrer">Visit</a></td>
-    </tr>
-    <tr>
-      <td>iLovePDF</td>
-      <td>Online Tools</td>
-      <td>iLovePDF | Online PDF tools for PDF lovers</td>
-      <td><a href="https://www.ilovepdf.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
-    </tr>
-    <tr>
-      <td>i2PDF</td>
-      <td>Online Tools</td>
-      <td>i2PDF: Free Online PDF Tools</td>
-      <td><a href="https://www.i2pdf.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
-    </tr>
-    <tr>
-      <td>OmniTools</td>
-      <td>Online Tools</td>
-      <td>Get Things Done Quickly with OmniTools</td>
-      <td><a href="https://omnitools.app/" target="_blank" rel="noopener noreferrer">Visit</a></td>
-    </tr>
-    <tr>
-      <td>IT-Tools</td>
-      <td>Online Tools</td>
-      <td>Handy online tools for developers</td>
-      <td><a href="https://it-tools.tech/" target="_blank" rel="noopener noreferrer">Visit</a></td>
-    </tr>
-    <tr>
-      <td>Remix Icons</td>
-      <td>Online Tools</td>
-      <td>Simply Delightful Icon System</td>
-      <td><a href="https://remixicon.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
-    </tr>
-    <tr>
-      <td>Simple Icons</td>
-      <td>Online Tools</td>
-      <td>Free SVG icons for popular brands.</td>
-      <td><a href="https://simpleicons.org/" target="_blank" rel="noopener noreferrer">Visit</a></td>
-    </tr>
-    <tr>
-      <td>Pastebin.com</td>
-      <td>Online Tools</td>
-      <td>Pastebin.com - #1 paste tool since 2002!</td>
-      <td><a href="https://pastebin.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
-    </tr>
-    <tr>
-      <td>Dontpad.com</td>
-      <td>Online Tools</td>
-      <td>file transfer made easy</td>
-      <td><a href="https://dontpad.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
-    </tr>
-    <tr>
-      <td>Filemail</td>
-      <td>File Transfer</td>
-      <td>Send Large Files Of Any Size</td>
-      <td><a href="https://www.filemail.com" target="_blank" rel="noopener noreferrer">Visit</a></td>
-    </tr>
-    <tr>
-      <td>WebWormhole</td>
-      <td>File Transfer</td>
-      <td>WebWormhole lets you send files from one computer to another</td>
-      <td><a href="https://webwormhole.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
-    </tr>
-    <tr>
-      <td>JustBeamIt</td>
-      <td>File Transfer</td>
-      <td>file transfer made easy</td>
-      <td><a href="https://www.justbeamit.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
-    </tr>
-    <tr>
-      <td>YetiForce</td>
-      <td>CRM</td>
-      <td>The most innovative CRM system.</td>
-      <td><a href="https://yetiforce.com/en/" target="_blank" rel="noopener noreferrer">Visit</a></td>
-    </tr>
-    <tr>
-      <td>OpenAI</td>
-      <td>AI / ML</td>
-      <td>Generative AI models and APIs (GPT, DALL·E, Whisper)</td>
-      <td><a href="https://openai.com" target="_blank" rel="noopener noreferrer">Visit</a></td>
-    </tr>
-    <tr>
-      <td>Postman Web</td>
-      <td>API</td>
-      <td>Postman: The World's Leading API Platform</td>
-      <td><a href="https://web.postman.co/home#" target="_blank" rel="noopener noreferrer">Visit</a></td>
-    </tr>
-    <tr>
-      <td>The Thiings Collection</td>
-      <td>Presentation Tools</td>
-      <td>A growing collection of 6000+ free 3D icons</td>
-      <td><a href="https://www.thiings.co/things" target="_blank" rel="noopener noreferrer">Visit</a></td>
-    </tr>
-    <tr>
-      <td>Open Source Alternative</td>
-      <td>Software</td>
-      <td>Alternatives to proprietary software</td>
-      <td><a href="https://opensourcealternative.to" target="_blank" rel="noopener noreferrer">Visit</a></td>
-    </tr>
-    <tr>
-      <td>SourceForge</td>
-      <td>Software</td>
-      <td>Directory of open-source software</td>
-      <td><a href="https://sourceforge.net" target="_blank" rel="noopener noreferrer">Visit</a></td>
-    </tr>
-    <tr>
-      <td>db-ip</td>
-      <td>Network</td>
-      <td>IP geolocation API and database</td>
-      <td><a href="https://db-ip.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
-    </tr>
-    <tr>
-      <td>CheckIP.info</td>
-      <td>Network</td>
-      <td>IP address and domain information tools</td>
-      <td><a href="https://checkip.info/" target="_blank" rel="noopener noreferrer">Visit</a></td>
-    </tr>
-    <tr>
-      <td>IP Chicken</td>
-      <td>Network</td>
-      <td>IP Chicken. Served fresh daily</td>
-      <td><a href="https://www.ipchicken.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
-    </tr>
-    <tr>
-      <td>Papers with Code</td>
-      <td>AI Research</td>
-      <td>ML papers, code, datasets — ranked and compared</td>
-      <td><a href="https://paperswithcode.com" target="_blank" rel="noopener noreferrer">Visit</a></td>
-    </tr>
-    <tr>
-      <td>Internet Archive</td>
-      <td>Library / Archive</td>
-      <td>Digital Library of Free & Borrowable Texts, Movies ...</td>
-      <td><a href="https://archive.org/" target="_blank" rel="noopener noreferrer">Visit</a></td>
-    </tr>
-    <tr>
-      <td>Car Care Kiosk</td>
-      <td>Auto Care</td>
-      <td>The easiest way to fix your car with videos from car repair experts</td>
-      <td><a href="https://www.carcarekiosk.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
-    </tr>
-    <tr>
-      <td>Exif Info.org</td>
-      <td>OSINT Tools</td>
-      <td>An online tool to analyze and display the meta­data in images and other media files.</td>
-      <td><a href="https://exifinfo.org/" target="_blank" rel="noopener noreferrer">Visit</a></td>
-    </tr>
-  </tbody>
+<thead>
+<tr>
+<th>Tool</th>
+<th>Category</th>
+<th>Description</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>OpenAI</td><td>AI & Research</td><td>Generative AI platform offering models like GPT, DALL·E, and Whisper APIs.</td><td><a href="https://openai.com">Visit</a></td></tr>
+<tr><td>Papers With Code</td><td>AI & Research</td><td>Machine learning research papers paired with code implementations and benchmarks.</td><td><a href="https://paperswithcode.com">Visit</a></td></tr>
+<tr><td>IT-Tools</td><td>Developer Tools</td><td>Collection of privacy-friendly utilities for developers including encoders, formatters, and network tools.</td><td><a href="https://it-tools.tech">Visit</a></td></tr>
+<tr><td>OmniTools</td><td>Developer Tools</td><td>Multi-purpose web toolbox offering productivity and developer utilities.</td><td><a href="https://omnitools.app">Visit</a></td></tr>
+<tr><td>Postman Web</td><td>Developer Tools</td><td>Leading API development and testing platform accessible directly from the browser.</td><td><a href="https://web.postman.co/home">Visit</a></td></tr>
+<tr><td>Pastebin</td><td>Developer Tools</td><td>Popular platform for sharing code snippets, logs, and text online.</td><td><a href="https://pastebin.com">Visit</a></td></tr>
+<tr><td>Dontpad</td><td>Developer Tools</td><td>Lightweight shared online notepad for quick collaboration and note sharing.</td><td><a href="https://dontpad.com">Visit</a></td></tr>
+<tr><td>Filemail</td><td>File Transfer</td><td>Send extremely large files quickly and securely.</td><td><a href="https://www.filemail.com">Visit</a></td></tr>
+<tr><td>WebWormhole</td><td>File Transfer</td><td>Secure peer-to-peer file transfer using encrypted tunnels.</td><td><a href="https://webwormhole.com">Visit</a></td></tr>
+<tr><td>JustBeamIt</td><td>File Transfer</td><td>Browser-based direct file sharing without uploading files to servers.</td><td><a href="https://www.justbeamit.com">Visit</a></td></tr>
+<tr><td>TinyWow</td><td>Document Tools</td><td>Large collection of free tools for PDFs, images, videos, and file conversions.</td><td><a href="https://tinywow.com">Visit</a></td></tr>
+<tr><td>BentoPDF</td><td>Document Tools</td><td>Privacy-first PDF toolkit designed for secure document processing.</td><td><a href="https://bentopdf.com/en/#tools-header">Visit</a></td></tr>
+<tr><td>iLovePDF</td><td>Document Tools</td><td>Popular online suite for merging, converting, compressing, and editing PDFs.</td><td><a href="https://www.ilovepdf.com">Visit</a></td></tr>
+<tr><td>i2PDF</td><td>Document Tools</td><td>Lightweight online toolkit offering a variety of PDF utilities.</td><td><a href="https://www.i2pdf.com">Visit</a></td></tr>
+<tr><td>Anime.js</td><td>Design & UI</td><td>Lightweight JavaScript animation library for creating advanced web animations.</td><td><a href="https://animejs.com">Visit</a></td></tr>
+<tr><td>Remix Icons</td><td>Design & UI</td><td>Open-source icon system designed for modern web and app interfaces.</td><td><a href="https://remixicon.com">Visit</a></td></tr>
+<tr><td>Simple Icons</td><td>Design & UI</td><td>Free SVG icons representing thousands of popular brands.</td><td><a href="https://simpleicons.org">Visit</a></td></tr>
+<tr><td>The Thiings Collection</td><td>Design & UI</td><td>Large library of 6000+ free 3D icons and design assets.</td><td><a href="https://www.thiings.co/things">Visit</a></td></tr>
+<tr><td>DB-IP</td><td>Networking</td><td>IP geolocation API and database used for analytics, fraud detection, and security.</td><td><a href="https://db-ip.com">Visit</a></td></tr>
+<tr><td>CheckIP</td><td>Networking</td><td>Tools for checking IP addresses, domains, and DNS information.</td><td><a href="https://checkip.info">Visit</a></td></tr>
+<tr><td>IP Chicken</td><td>Networking</td><td>Minimal website that instantly shows your public IP address.</td><td><a href="https://www.ipchicken.com">Visit</a></td></tr>
+<tr><td>ExifInfo</td><td>OSINT</td><td>Analyze EXIF metadata embedded in images and media files.</td><td><a href="https://exifinfo.org">Visit</a></td></tr>
+<tr><td>Open Source Alternative</td><td>Open Source</td><td>Discover open-source replacements for proprietary software.</td><td><a href="https://opensourcealternative.to">Visit</a></td></tr>
+<tr><td>SourceForge</td><td>Open Source</td><td>Large directory hosting thousands of open-source software projects.</td><td><a href="https://sourceforge.net">Visit</a></td></tr>
+<tr><td>YetiForce CRM</td><td>Business</td><td>Advanced open-source CRM system designed for enterprise customer management.</td><td><a href="https://yetiforce.com/en">Visit</a></td></tr>
+<tr><td>Internet Archive</td><td>Knowledge</td><td>Massive digital library containing books, movies, software, and archived websites.</td><td><a href="https://archive.org">Visit</a></td></tr>
+<tr><td>Car Care Kiosk</td><td>Automotive</td><td>Step-by-step vehicle repair and maintenance tutorials with video guides.</td><td><a href="https://www.carcarekiosk.com">Visit</a></td></tr>
+</tbody>
 </table>
