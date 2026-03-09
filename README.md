@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center">Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lenadlm&show_icons=true&theme=dark" alt="GitHub Stats" />
+  Coming sooooooon!
 </p>
 
 <br>
