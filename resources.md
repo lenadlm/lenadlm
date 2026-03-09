@@ -70,6 +70,12 @@
       <td><a href="https://pastebin.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
     </tr>
     <tr>
+      <td>Dontpad.com</td>
+      <td>Online Tools</td>
+      <td>file transfer made easy</td>
+      <td><a href="https://dontpad.com/" target="_blank" rel="noopener noreferrer">Visit</a></td>
+    </tr>
+    <tr>
       <td>Filemail</td>
       <td>File Transfer</td>
       <td>Send Large Files Of Any Size</td>
