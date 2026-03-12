@@ -28,6 +28,7 @@
 <tr><td>Filemail</td><td>File Transfer</td><td>Send extremely large files quickly and securely.</td><td><a href="https://www.filemail.com">Visit</a></td></tr>
 <tr><td>WebWormhole</td><td>File Transfer</td><td>Secure peer-to-peer file transfer using encrypted tunnels.</td><td><a href="https://webwormhole.com">Visit</a></td></tr>
 <tr><td>JustBeamIt</td><td>File Transfer</td><td>Browser-based direct file sharing without uploading files to servers.</td><td><a href="https://www.justbeamit.com">Visit</a></td></tr>
+<tr><td>ToffeeShare</td><td>File Transfer</td><td>Making sharing sweet</td><td><a href="https://toffeeshare.com/">Visit</a></td></tr>
 <tr><td>TinyWow</td><td>Document Tools</td><td>Large collection of free tools for PDFs, images, videos, and file conversions.</td><td><a href="https://tinywow.com">Visit</a></td></tr>
 <tr><td>BentoPDF</td><td>Document Tools</td><td>Privacy-first PDF toolkit designed for secure document processing.</td><td><a href="https://bentopdf.com/en/#tools-header">Visit</a></td></tr>
 <tr><td>iLovePDF</td><td>Document Tools</td><td>Popular online suite for merging, converting, compressing, and editing PDFs.</td><td><a href="https://www.ilovepdf.com">Visit</a></td></tr>
