@@ -33,6 +33,7 @@
 <tr><td>BentoPDF</td><td>Document Tools</td><td>Privacy-first PDF toolkit designed for secure document processing.</td><td><a href="https://bentopdf.com/en/#tools-header">Visit</a></td></tr>
 <tr><td>iLovePDF</td><td>Document Tools</td><td>Popular online suite for merging, converting, compressing, and editing PDFs.</td><td><a href="https://www.ilovepdf.com">Visit</a></td></tr>
 <tr><td>i2PDF</td><td>Document Tools</td><td>Lightweight online toolkit offering a variety of PDF utilities.</td><td><a href="https://www.i2pdf.com">Visit</a></td></tr>
+<tr><td>Photopea</td><td>Photo Editors</td><td>Online Photo Editor.</td><td><a href="https://www.photopea.com/">Visit</a></td></tr>  
 <tr><td>Anime.js</td><td>Design & UI</td><td>Lightweight JavaScript animation library for creating advanced web animations.</td><td><a href="https://animejs.com">Visit</a></td></tr>
 <tr><td>Remix Icons</td><td>Design & UI</td><td>Open-source icon system designed for modern web and app interfaces.</td><td><a href="https://remixicon.com">Visit</a></td></tr>
 <tr><td>Simple Icons</td><td>Design & UI</td><td>Free SVG icons representing thousands of popular brands.</td><td><a href="https://simpleicons.org">Visit</a></td></tr>
