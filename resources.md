@@ -41,6 +41,7 @@
 <tr><td>DB-IP</td><td>Networking</td><td>IP geolocation API and database used for analytics, fraud detection, and security.</td><td><a href="https://db-ip.com">Visit</a></td></tr>
 <tr><td>CheckIP</td><td>Networking</td><td>Tools for checking IP addresses, domains, and DNS information.</td><td><a href="https://checkip.info">Visit</a></td></tr>
 <tr><td>IP Chicken</td><td>Networking</td><td>Minimal website that instantly shows your public IP address.</td><td><a href="https://www.ipchicken.com">Visit</a></td></tr>
+<tr><td>dnscheck.tools</td><td>Networking</td><td>dnscheck.tools</td><td><a href="https://dnscheck.tools/">Visit</a></td></tr>
 <tr><td>ExifInfo</td><td>OSINT</td><td>Analyze EXIF metadata embedded in images and media files.</td><td><a href="https://exifinfo.org">Visit</a></td></tr>
 <tr><td>Open Source Alternative</td><td>Open Source</td><td>Discover open-source replacements for proprietary software.</td><td><a href="https://opensourcealternative.to">Visit</a></td></tr>
 <tr><td>SourceForge</td><td>Open Source</td><td>Large directory hosting thousands of open-source software projects.</td><td><a href="https://sourceforge.net">Visit</a></td></tr>
