@@ -27,11 +27,11 @@ Always learning, always building.
 <h3 align="center">~/skills <span style="color:#7EE0AD">$</span> ls tech-stack/</h3>
 
 <p align="center">
+<img src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge">
 <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
 <img src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge">  
 </p>
