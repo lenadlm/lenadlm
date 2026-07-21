@@ -31,9 +31,13 @@ Always learning, always building.
 <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge">
 <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
-<img src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge">  
+<img src="https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">  
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 </p>
 
 <br>
